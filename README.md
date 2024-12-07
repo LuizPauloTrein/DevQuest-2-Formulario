@@ -1,8 +1,11 @@
 Formulário com Validação:
+
 -Este é um projeto de um formulário web com validação de entrada de dados utilizando HTML, CSS e JavaScript. Ele serve como um exemplo prático de como implementar validações em formulários para melhorar a experiência do usuário e evitar o envio de dados inválidos.
 
 Funcionalidades:
+
 -Validação de campos obrigatórios.
+
 -Feedback visual para erros (mensagens de erro e bordas de campos destacadas).
 
 ![image](https://github.com/user-attachments/assets/2fd4082e-e43b-4628-b599-4034ead43d71)
@@ -16,6 +19,21 @@ Funcionalidades:
 
 
 Tecnologias Utilizadas:
+
 HTML: Estrutura do formulário.
+
 CSS: Estilização e responsividade.
+
 JavaScript: Lógica de validação e manipulação do DOM.
+
+
+
+Realizado por: Luiz Paulo Trein
+
+Direiros autorais reservados para DevEmDobro:
+
+https://www.youtube.com/@DevemDobro
+
+https://www.instagram.com/devemdobro/
+
+https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl?si=57ef853cc0074ef9&nd=1&dlsi=c8e5d3e501cd4e33
