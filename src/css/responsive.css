@@ -1,0 +1,67 @@
+@media (max-width: 900px) {
+    main {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .titulo {
+        margin: 15px;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .duvida {
+        font-size: 22px;
+    }
+
+    .texto {
+        font-size: 16px;
+    }
+
+    .formulario {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .input,
+    #mensagem {
+        width: 100%;
+    }
+
+    .enviar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .titulo {
+        margin: 10px;
+        padding: 5px;
+        text-align: center;
+    }
+
+    .duvida {
+        font-size: 20px;
+    }
+
+    .texto {
+        font-size: 14px;
+    }
+
+    .formulario {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .input,
+    #mensagem {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .enviar {
+        width: 100%;
+        font-size: 16px;
+        height: 38px;
+    }
+}
