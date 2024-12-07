@@ -29,11 +29,10 @@ JavaScript: Lógica de validação e manipulação do DOM.
 
 
 Realizado por: Luiz Paulo Trein
+https://www.linkedin.com/in/luiz-trein-60065b271/
+https://www.instagram.com/luizptrein?igsh=MWZremZmYXZkZ2ticg==
 
 Direiros autorais reservados para DevEmDobro:
-
 https://www.youtube.com/@DevemDobro
-
 https://www.instagram.com/devemdobro/
-
 https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl?si=57ef853cc0074ef9&nd=1&dlsi=c8e5d3e501cd4e33
